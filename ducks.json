@@ -1,0 +1,352 @@
+[
+  {
+    "id": "kA0KgL",
+    "color": "red",
+    "firstName": "Marty",
+    "lastName": "McFly",
+    "gender": "male"
+  },
+  {
+    "id": "dx3ngL",
+    "color": "teal",
+    "firstName": "Duckota",
+    "lastName": "Fanning",
+    "gender": "female"
+  },
+  {
+    "id": "FQ4dU1",
+    "color": "yellow",
+    "firstName": "Duck",
+    "lastName": "Norris",
+    "gender": "male"
+  },
+  {
+    "id": "JqS7ZZ",
+    "color": "red",
+    "firstName": "James",
+    "lastName": "Pond",
+    "gender": "male"
+  },
+  {
+    "id": "ZM5uJL",
+    "color": "black",
+    "firstName": "Darth",
+    "lastName": "Wader",
+    "gender": "male"
+  },
+  {
+    "id": "05FuKa",
+    "color": "yellow",
+    "firstName": "Clint",
+    "lastName": "Beakwood",
+    "gender": "male"
+  },
+  {
+    "id": "wKq9zD",
+    "color": "yellow",
+    "firstName": "Mary",
+    "lastName": "Quackens",
+    "gender": "female"
+  },
+  {
+    "id": "QCAb5l",
+    "color": "orange",
+    "firstName": "Ducky",
+    "lastName": "Balboa",
+    "gender": "male"
+  },
+  {
+    "id": "eKiyA5",
+    "color": "orange",
+    "firstName": "Captain",
+    "lastName": "Quack",
+    "gender": "male"
+  },
+  {
+    "id": "YiSGQl",
+    "color": "teal",
+    "firstName": "Wonder",
+    "lastName": "Duck",
+    "gender": "female"
+  },
+  {
+    "id": "PATFkc",
+    "color": "yellow",
+    "firstName": "Wing",
+    "lastName": "Smith",
+    "gender": "male"
+  },
+  {
+    "id": "rkXaHR",
+    "color": "green",
+    "firstName": "Johnny",
+    "lastName": "Duck",
+    "gender": "male"
+  },
+  {
+    "id": "ANuInK",
+    "color": "orange",
+    "firstName": "Gene",
+    "lastName": "Duckman",
+    "gender": "male"
+  },
+  {
+    "id": "twpvTz",
+    "color": "brown",
+    "firstName": "Honk",
+    "lastName": "Williams",
+    "gender": "male"
+  },
+  {
+    "id": "85z2XP",
+    "color": "red",
+    "firstName": "Tom",
+    "lastName": "Honks",
+    "gender": "male"
+  },
+  {
+    "id": "qNCQI5",
+    "color": "green",
+    "firstName": "Ducky",
+    "lastName": "Parton",
+    "gender": "female"
+  },
+  {
+    "id": "rXtfBi",
+    "color": "red",
+    "firstName": "Lacey",
+    "lastName": "Wing",
+    "gender": "female"
+  },
+  {
+    "id": "qdrZAe",
+    "color": "teal",
+    "firstName": "Fluffy",
+    "lastName": "Flapper",
+    "gender": "female"
+  },
+  {
+    "id": "TnWJjf",
+    "color": "red",
+    "firstName": "Lacey",
+    "lastName": "McQuack",
+    "gender": "female"
+  },
+  {
+    "id": "wEhe18",
+    "color": "yellow",
+    "firstName": "Red",
+    "lastName": "Pintail",
+    "gender": "male"
+  },
+  {
+    "id": "tHVL1O",
+    "color": "red",
+    "firstName": "Feathers",
+    "lastName": "Duck",
+    "gender": "male"
+  },
+  {
+    "id": "scVExM",
+    "color": "brown",
+    "firstName": "Woody",
+    "lastName": "McQuack",
+    "gender": "male"
+  },
+  {
+    "id": "wd3UOT",
+    "color": "green",
+    "firstName": "Joe",
+    "lastName": "St Dive",
+    "gender": "male"
+  },
+  {
+    "id": "EaaG7G",
+    "color": "green",
+    "firstName": "Sharon",
+    "lastName": "Quack",
+    "gender": "female"
+  },
+  {
+    "id": "Hegko4",
+    "color": "red",
+    "firstName": "Marty",
+    "lastName": "Woody",
+    "gender": "male"
+  },
+  {
+    "id": "fCBItz",
+    "color": "orange",
+    "firstName": "Clint",
+    "lastName": "Duckling",
+    "gender": "male"
+  },
+  {
+    "id": "V9nFGB",
+    "color": "yellow",
+    "firstName": "Sheila",
+    "lastName": "Mallard",
+    "gender": "female"
+  },
+  {
+    "id": "0EXCgS",
+    "color": "yellow",
+    "firstName": "Clint",
+    "lastName": "Waddle",
+    "gender": "male"
+  },
+  {
+    "id": "v2RIZV",
+    "color": "orange",
+    "firstName": "Marty",
+    "lastName": "Pintail",
+    "gender": "male"
+  },
+  {
+    "id": "OrC23b",
+    "color": "brown",
+    "firstName": "Layla",
+    "lastName": "Woody",
+    "gender": "female"
+  },
+  {
+    "id": "m3eYvX",
+    "color": "orange",
+    "firstName": "John",
+    "lastName": "Wing",
+    "gender": "male"
+  },
+  {
+    "id": "N6pzm1",
+    "color": "red",
+    "firstName": "Marty",
+    "lastName": "Wing",
+    "gender": "male"
+  },
+  {
+    "id": "CoyzZ0",
+    "color": "red",
+    "firstName": "Marty",
+    "lastName": "McFly",
+    "gender": "male"
+  },
+  {
+    "id": "tFys3r",
+    "color": "brown",
+    "firstName": "Joe",
+    "lastName": "Flapper",
+    "gender": "male"
+  },
+  {
+    "id": "FKlNMP",
+    "color": "orange",
+    "firstName": "Marty",
+    "lastName": "Beak",
+    "gender": "male"
+  },
+  {
+    "id": "nTS78v",
+    "color": "teal",
+    "firstName": "Joe",
+    "lastName": "Wood",
+    "gender": "male"
+  },
+  {
+    "id": "mx8YCg",
+    "color": "orange",
+    "firstName": "Layla",
+    "lastName": "Flapper",
+    "gender": "female"
+  },
+  {
+    "id": "KqL8qr",
+    "color": "teal",
+    "firstName": "Feathers",
+    "lastName": "McQuack",
+    "gender": "male"
+  },
+  {
+    "id": "LhT7JH",
+    "color": "brown",
+    "firstName": "Woody",
+    "lastName": "Feathers",
+    "gender": "male"
+  },
+  {
+    "id": "4sqVWJ",
+    "color": "teal",
+    "firstName": "Lacey",
+    "lastName": "Pintail",
+    "gender": "female"
+  },
+  {
+    "id": "aqLqYd",
+    "color": "green",
+    "firstName": "Woody",
+    "lastName": "McQuack",
+    "gender": "male"
+  },
+  {
+    "id": "CaBwyH",
+    "color": "orange",
+    "firstName": "Lacey",
+    "lastName": "Wing",
+    "gender": "female"
+  },
+  {
+    "id": "HrFmks",
+    "color": "red",
+    "firstName": "Sharon",
+    "lastName": "McFly",
+    "gender": "female"
+  },
+  {
+    "id": "XL9peH",
+    "color": "teal",
+    "firstName": "Susan",
+    "lastName": "Pintail",
+    "gender": "female"
+  },
+  {
+    "id": "duotDZ",
+    "color": "yellow",
+    "firstName": "Layla",
+    "lastName": "Feathers",
+    "gender": "female"
+  },
+  {
+    "id": "ox7jOd",
+    "color": "brown",
+    "firstName": "Lacey",
+    "lastName": "Woody",
+    "gender": "female"
+  },
+  {
+    "id": "tRol45",
+    "color": "green",
+    "firstName": "Clint",
+    "lastName": "Wood",
+    "gender": "male"
+  },
+  {
+    "id": "Al6ke7",
+    "color": "orange",
+    "firstName": "Susan",
+    "lastName": "Duck",
+    "gender": "female"
+  },
+  {
+    "id": "bYdVlV",
+    "color": "brown",
+    "firstName": "Layla",
+    "lastName": "Feathers",
+    "gender": "female"
+  },
+  {
+    "id": "gSf6iX",
+    "color": "green",
+    "firstName": "Fluffy",
+    "lastName": "Fowler",
+    "gender": "female"
+  }
+]

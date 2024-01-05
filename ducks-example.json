@@ -1,0 +1,27 @@
+{
+  "ducks": [
+    {
+      "name": "Quackmire",
+      "color": "green",
+      "actions": [
+        "swimming",
+        "waddling",
+        "quacking"
+      ]
+    },
+    {
+      "name": "Feather Locklear",
+      "color": "yellow",
+      "actions": [
+        "sunbathing"
+      ]
+    },
+    {
+      "name": "Duck Norris",
+      "color": "brown",
+      "actions": [
+        "karate chopping bread"
+      ]
+    }
+  ]
+}
