@@ -1,0 +1,26 @@
+[
+  {
+    "color": "red",
+    "name": {
+      "firstName": "Marty",
+      "lastName": "McFly"
+    },
+    "gender": "male"
+  },
+  {
+    "color": "teal",
+    "name": {
+      "firstName": "Duckota",
+      "lastName": "Fanning"
+    },
+    "gender": "female"
+  },
+  {
+    "color": "yellow",
+    "name": {
+      "firstName": "Duck",
+      "lastName": "Norris"
+    },
+    "gender": "male"
+  }
+]
